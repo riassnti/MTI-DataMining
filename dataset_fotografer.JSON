@@ -1,0 +1,102 @@
+[
+  {
+    "tag": "salam",
+    "patterns": ["halo", "hai", "selamat pagi", "selamat siang", "selamat sore"],
+    "responses": ["Halo! Selamat datang di layanan Jasa Fotografer kami. Ada yang bisa dibantu?"]
+  },
+  {
+    "tag": "jam_operasional",
+    "patterns": ["jam kerja", "jam buka", "fotografer buka jam berapa"],
+    "responses": ["Kami melayani pemotretan setiap hari pukul 08.00 – 20.00 WIB."]
+  },
+  {
+    "tag": "jenis_layanan",
+    "patterns": ["layanan apa saja", "foto apa saja", "jasa fotografi"],
+    "responses": ["Kami melayani foto wedding, prewedding, wisuda, produk, event, dan personal photoshoot."]
+  },
+  {
+    "tag": "harga_wedding",
+    "patterns": ["harga wedding", "biaya foto pernikahan", "paket wedding"],
+    "responses": ["Paket wedding mulai dari Rp3.000.000 tergantung durasi dan kebutuhan."]
+  },
+  {
+    "tag": "harga_wisuda",
+    "patterns": ["harga foto wisuda", "biaya foto kelulusan"],
+    "responses": ["Paket foto wisuda mulai dari Rp500.000 per sesi."]
+  },
+  {
+    "tag": "harga_produk",
+    "patterns": ["foto produk", "harga foto produk", "jasa foto online shop"],
+    "responses": ["Foto produk mulai dari Rp50.000 per foto dengan editing profesional."]
+  },
+  {
+    "tag": "durasi",
+    "patterns": ["durasi pemotretan", "berapa lama foto"],
+    "responses": ["Durasi pemotretan standar 1–3 jam tergantung paket yang dipilih."]
+  },
+  {
+    "tag": "lokasi",
+    "patterns": ["lokasi studio", "alamat fotografer"],
+    "responses": ["Studio kami berlokasi di Tangerang Selatan, namun kami juga melayani panggilan luar kota."]
+  },
+  {
+    "tag": "outdoor",
+    "patterns": ["foto outdoor", "pemotretan luar ruangan"],
+    "responses": ["Ya, kami melayani pemotretan indoor dan outdoor sesuai permintaan."]
+  },
+  {
+    "tag": "editing",
+    "patterns": ["edit foto", "retouch foto"],
+    "responses": ["Semua paket sudah termasuk editing warna dan retouch dasar."]
+  },
+  {
+    "tag": "hasil_foto",
+    "patterns": ["kapan foto jadi", "hasil foto selesai"],
+    "responses": ["Hasil foto akan dikirim maksimal 7 hari setelah pemotretan."]
+  },
+  {
+    "tag": "format_file",
+    "patterns": ["format foto", "file foto apa"],
+    "responses": ["Foto akan dikirim dalam format JPG resolusi tinggi."]
+  },
+  {
+    "tag": "booking",
+    "patterns": ["cara booking", "pesan jadwal"],
+    "responses": ["Booking dapat dilakukan dengan menghubungi WhatsApp kami dan mengisi jadwal."]
+  },
+  {
+    "tag": "dp",
+    "patterns": ["dp", "uang muka"],
+    "responses": ["DP minimal 30% untuk mengamankan jadwal pemotretan."]
+  },
+  {
+    "tag": "pembayaran",
+    "patterns": ["bayar pakai apa", "metode pembayaran"],
+    "responses": ["Pembayaran bisa via transfer bank atau e-wallet."]
+  },
+  {
+    "tag": "reschedule",
+    "patterns": ["ubah jadwal", "reschedule"],
+    "responses": ["Reschedule dapat dilakukan maksimal H-2 sebelum pemotretan."]
+  },
+  {
+    "tag": "cancel",
+    "patterns": ["batal foto", "pembatalan"],
+    "responses": ["Pembatalan sepihak menyebabkan DP hangus."]
+  },
+  {
+    "tag": "tim",
+    "patterns": ["berapa fotografer", "jumlah crew"],
+    "responses": ["Setiap sesi ditangani 1 fotografer profesional, bisa ditambah crew."]
+  },
+  {
+    "tag": "pengalaman",
+    "patterns": ["pengalaman", "portofolio"],
+    "responses": ["Kami berpengalaman lebih dari 5 tahun di bidang fotografi profesional."]
+  },
+  {
+    "tag": "exit",
+    "patterns": ["keluar", "exit", "selesai"],
+    "responses": ["Terima kasih telah menghubungi Jasa Fotografer kami 🙏"]
+  }
+]
