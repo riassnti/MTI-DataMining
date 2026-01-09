@@ -62,7 +62,7 @@
   {
     "tag": "booking",
     "patterns": ["cara booking", "pesan jadwal"],
-    "responses": ["Booking dapat dilakukan dengan menghubungi WhatsApp kami dan mengisi jadwal."]
+    "responses": ["Booking dapat dilakukan dengan klik Tombol Booking."]
   },
   {
     "tag": "dp",
