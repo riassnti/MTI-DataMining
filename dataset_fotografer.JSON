@@ -30,6 +30,11 @@
     "responses": ["Foto produk mulai dari Rp50.000 per foto dengan editing profesional."]
   },
   {
+    "tag": "harga_event",
+    "patterns": ["foto event", "harga foto event", "jasa foto event"],
+    "responses": ["Foto produk mulai dari Rp2.000.000 tergantung durasi dan kebutuhan."]
+  },
+  {
     "tag": "durasi",
     "patterns": ["durasi pemotretan", "berapa lama foto"],
     "responses": ["Durasi pemotretan standar 1–3 jam tergantung paket yang dipilih."]
@@ -100,3 +105,4 @@
     "responses": ["Terima kasih telah menghubungi Jasa Fotografer kami 🙏"]
   }
 ]
+
