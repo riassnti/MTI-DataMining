@@ -12,7 +12,7 @@
   {
     "tag": "jenis_layanan",
     "patterns": ["layanan apa saja", "foto apa saja", "jasa fotografi"],
-    "responses": ["Kami melayani foto wedding, prewedding, wisuda, produk, event, dan personal photoshoot."]
+    "responses": ["Kami melayani foto wedding, wisuda, produk, dan event."]
   },
   {
     "tag": "harga_wedding",
@@ -105,4 +105,5 @@
     "responses": ["Terima kasih telah menghubungi Jasa Fotografer kami 🙏"]
   }
 ]
+
 
